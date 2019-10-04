@@ -1,5 +1,5 @@
-# DSA_leetcode-project
-leetcode-project
+# DSA
+## 名詞解釋
 
 Week1(9/09-9/13)
 ======
