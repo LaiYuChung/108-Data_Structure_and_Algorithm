@@ -1,0 +1,7 @@
+class Solution:
+    def toLowerCase(self, str: str) -> str:
+        str.lower
+        
+Runtime: 48 ms
+Memory: 14 MB
+	
