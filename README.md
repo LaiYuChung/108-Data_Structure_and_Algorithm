@@ -26,4 +26,9 @@ Week3(9/23-9/27)-Stack & Queue
 
 Week4(9/30-10/04)-Set & Insertion Sort
 ======
-
+這裡所稱的排序(Sorting)，是指將一串不規則的數值資料(陣列資料)依照遞增或是遞減的方式重新編排。要將一串不規則的數值資料遞增或是遞減排列，方法當然不會只有一種，而排序演算法(Sorting Algorithm)就是排列資料的方法，目前已知的方法有五種：
+　　分別是交換排序　(Exchange sort)
+　　    　選擇排序　(Selection sort)
+　　　　　插入排序　(Insertion sort)
+　　　　　氣泡排序　(Bubble sort)
+　　　　和快速排序　(Quick sort)。
