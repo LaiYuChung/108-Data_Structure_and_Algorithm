@@ -2,9 +2,9 @@
 作業區：
 ------
 Linked List: [linked list](r)
-<br>Stack & Queue: 
+<br>Stack & Queue: [Min stack](Week3/155. Min Stack) , [Implement Queue using Stacks](Week3/232. Implement Queue using Stacks)
 <br>Set & Insertion Sort:
-
+<br>Quick Sort:
 
 Week1(9/09-9/13)
 ------
