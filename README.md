@@ -2,7 +2,11 @@
 作業區：
 ------
 Linked List: [linked list](r)
-<br>Stack & Queue: [Min stack](Week3/155. Min Stack) , [Implement Queue using Stacks](Week3/232. Implement Queue using Stacks)
+<br>Stack & Queue: 
+[Min stack
+(https://github.com/LaiYuChung/DSA_leetcodeproject/blob/master/Week3/232.%20Implement%20Queue%20using%20Stacks) , 
+[Implement Queue using Stacks]
+(https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week3/155.%20Min%20Stack)
 <br>Set & Insertion Sort:
 <br>Quick Sort:
 
