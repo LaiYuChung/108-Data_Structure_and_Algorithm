@@ -23,7 +23,7 @@ Week3(9/23-9/27)-Stack & Queue
 ###### 堆疊(Stack)
 加入(push)與刪除(pop)於同一端
 <br>具有後進先出(LIFO, Last-in-First-out)或先進後出(FILO, First-in-Last-out)性質的有序串列
-<br><\t>例子：疊盤子、發牌、走迷宮
+<br> <t>例子：疊盤子、發牌、走迷宮
 
 ###### 佇列(Queue)
 加入(enqueue)與刪除(dequeue)於不同端(front & rear)或先進先出(FIFO, First-in-First-out)
