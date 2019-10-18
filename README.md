@@ -9,9 +9,6 @@ Linked List: [linked list 介紹](http://alrightchiu.github.io/SecondRound/linke
 <br>Quick Sort:[Quick Sort](https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week5/Sorting%20Practice.ipynb) , 
 [Quick Sort 流程圖](https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week5/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95(Quick%20Sort)%20(1).png)
 
-Week1(9/09-9/13)
-------
-
 Week2(9/16-9/20)-Linked List
 ------
 ###### Linked-list是由一連串的節點（Node）所構成，每個節點指向下一個節點，而最後一個節點則指向Null（在python裡面是None）。
@@ -38,3 +35,19 @@ Week4(9/30-10/04)-Set & Insertion Sort
 <br>插入排序　(Insertion sort)
 <br>氣泡排序　(Bubble sort)
 <br>和快速排序　(Quick sort)。
+
+Week5(10/14-10/18)-Quick Sort & Heap Sort
+------
+作業項目回顧：
+問題描述 -> 程式架構設計說明 -> 流程圖 -> 逐步解釋說明 -> 測試值使用範例 -> 其他補充說明
+
+<\ br>Heap Sort(堆疊排序):
+<br>將最後一個
+
+
+
+
+
+
+
+
