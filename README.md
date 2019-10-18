@@ -1,13 +1,13 @@
 ## 資料結構與演算法(DSA) - 
 作業區：
 ------
-Linked List: [linked list](r)
+Linked List: [linked list 介紹](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 <br>Stack & Queue: 
 [Min stack](https://github.com/LaiYuChung/DSA_leetcodeproject/blob/master/Week3/232.%20Implement%20Queue%20using%20Stacks) , 
 [Implement Queue using Stacks](https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week3/155.%20Min%20Stack)
 <br>Set & Insertion Sort:
 <br>Quick Sort:[Quick Sort](https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week5/Sorting%20Practice.ipynb) , 
-[Qick Sort 流程圖](https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week5/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95(Quick%20Sort)%20(1).png)
+[Quick Sort 流程圖](https://github.com/LaiYuChung/DSA_leetcode-project/blob/master/Week5/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95(Quick%20Sort)%20(1).png)
 
 Week1(9/09-9/13)
 ------
