@@ -48,7 +48,7 @@ Week6-Merge Sort & Heap Sort
 ------
 外部網站連結:
 [各種排序法動畫演示](https://www.toptal.com/developers/sorting-algorithms)
-
+<br>[各式演算法教學](https://github.com/TheAlgorithms/Python)
 
 
 
