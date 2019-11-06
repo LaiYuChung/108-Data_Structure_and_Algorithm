@@ -44,8 +44,10 @@ Week5(10/14-10/18)-Quick Sort & Heap Sort
 <br>Heap Sort(堆疊排序):
 <br>將最後一個
 
-
-
+Week6-Merge Sort & Heap Sort
+------
+外部網站連結:
+[各種排序法動畫演示](https://www.toptal.com/developers/sorting-algorithms)
 
 
 
