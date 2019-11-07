@@ -10,6 +10,6 @@ Heap sort 流程:
 <br>
 <br>
 
-<br>Hear sort 程式碼:
+<br>Heap sort 程式碼:
 ---
 
