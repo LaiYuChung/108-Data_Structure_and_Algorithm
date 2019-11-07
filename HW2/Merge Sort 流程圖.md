@@ -7,8 +7,12 @@ Merge Sort 流程:
 <br>原本是寫成`if` `elif`判斷兩邊數字的大
 <br>if `右邊` < `左邊`
 <br>新list append 右邊的數
+<br>右邊`index` `+1`
+<br>
 <br>elif `左邊` > `右邊`
 <br>新list append 左邊的數
+<br>左邊`index` `+1`
+<br>
 <br>這邊就會發生一個錯誤
 <br>因為沒有處理到相等的情況
 <br>所以之後發現後就改為if else
