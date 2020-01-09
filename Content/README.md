@@ -7,6 +7,6 @@
 <br>3.Stack
 <br>4.Insertion Sort
 <br>5.Red Black Tree
-<br>
-<br>
-<br>more...
+<br>6.Binary Tree
+<br>7.Linked List
+<br>Waiting for more...
