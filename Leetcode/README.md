@@ -3,6 +3,8 @@
 
 <h2>Solved / Total Questions (12/1071)
 
+<br>
+
 <br> >> Finish Level `Easy`:
 
 <br>#155 : Min Stack
