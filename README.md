@@ -67,7 +67,7 @@ Week5 - Set
 
 Week6 - Insertion Sort
 ------
-[Insertion 連結]()
+[Insertion Sort 連結]()
 
 * 這裡所稱的排序(Sorting)，是指將一串不規則的數值資料(陣列資料)依照遞增或是遞減的方式重新編排。要將一串不規則的數值資料遞增或是遞減排列，方法當然不會只有一種，而排序演算法(Sorting Algorithm)就是排列資料的方法。
 
@@ -77,7 +77,7 @@ Week6 - Insertion Sort
 
 Week7 - Quick Sort
 ------
-[Quick 連結]()
+[Quick Sort 連結]()
 
 Week8 - Heap Sort
 ------
