@@ -2,11 +2,15 @@
 ------
 
 ## In this file:
-<br>1.Set
-<br>2.Queue
-<br>3.Stack
-<br>4.Insertion Sort
-<br>5.Red Black Tree
-<br>6.Binary Tree
-<br>7.Linked List
-<br>Waiting for more...
+* 1.Set
+* 2.Queue
+* 3.Stack
+* 4.Insertion Sort
+* 5.Red Black Tree
+* 6.Binary Tree
+* 7.Linked List
+
+<br>
+
+### >> Waiting for more...
+
