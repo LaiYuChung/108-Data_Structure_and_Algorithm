@@ -63,7 +63,6 @@ Linked-list與一般陣列（array）比起來最大的不同點在於：
 
 Week3 - Stack
 ------
-[Stack 連結]()
 ###### 堆疊(Stack)
 加入(push)與刪除(pop)於同一端
 <br>具有後進先出(LIFO, Last-in-First-out)或先進後出(FILO, First-in-Last-out)性質的有序串列
@@ -71,15 +70,15 @@ Week3 - Stack
 
 Week4 - Queue
 ------
-[Queue 連結]()
 ###### 佇列(Queue)
 加入(enqueue)與刪除(dequeue)於不同端(front & rear)或先進先出(FIFO, First-in-First-out)
 <br>例子：排隊買票、坐公車
 
 Week5 - Set
 ------
-[Set 連結]()
-作業項目回顧：
+<br>又稱集合，是資料結構的一種，可以用來表達資料中出現的種類有哪些，不會計算重複出現的單一資料，也跟數學的集合有同樣的概念。
+
+<br>作業項目回顧：
 <br>問題描述 -> 程式架構設計說明 -> 流程圖 -> 逐步解釋說明 -> 測試值使用範例 -> 其他補充說明
 
 Week6 - Insertion Sort
@@ -95,6 +94,12 @@ Week6 - Insertion Sort
 Week7 - Quick Sort
 ------
 [Quick Sort 連結](https://github.com/LaiYuChung/108-Data_Structure_and_Algorithm/tree/master/HW1)
+<br>[參考網站](https://kopu.chat/2017/08/03/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F-quick-sort/)
+<br>在數列中隨便找一個數字作為基準 (pivot)，然後把該數列中所有比基準數小的數字都放在左邊、比基準數大的數字都放在右邊。
+
+<br>即代表此陣列已經被切割成左、右兩個子陣列。再讓左右兩個子陣列各自做排序，當左、右子陣列排完時，整個排序也就結束了。
+<br>
+![Quick Sort](http://www.cs.swarthmore.edu/~soni/cs35/f13/Labs/images/06/quickSort.png)
 
 Week8 - Heap Sort
 ------
@@ -131,6 +136,11 @@ Week15 - Depth-First Tree
 Week16 - Minimum Spanning Tree
 ------
 [MST - Dijkstra 連結](https://github.com/LaiYuChung/108-Data_Structure_and_Algorithm/tree/master/HW6)
+<br>[參考網站](https://www.itdaan.com/tw/bb9aae32a7ecd771ef13c6b43d07f41f)
+<br>[參考2](http://alrightchiu.github.io/SecondRound/minimum-spanning-treeintrojian-jie.html)
+<br>生成樹：一個連通圖的生成樹，指的是該圖的一個子圖，它包含圖的所有頂點（N個），但只有足夠把所有頂點連接在一起的N-1條邊。 
+<br>如果再向其中添加一條邊，那就會有環產生。
+<br>最小生成樹：一個連通圖的所有生成樹中，所有邊的權種加起來為最小的生成樹，稱為最小生成樹。
 
 Week17 - Shortest Path
 ------
