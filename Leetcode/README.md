@@ -1,6 +1,8 @@
 這裡為Leetcode練習紀錄：
 ------
 
+<h2>Solved / Total Questions (12/1071)
+
 <br> >> Finish Level `Easy`:
 
 <br>#155 : Min Stack
