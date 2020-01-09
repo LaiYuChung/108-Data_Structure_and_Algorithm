@@ -1,7 +1,8 @@
 這裡為Leetcode練習紀錄：
 ------
 
-Finish Level `Easy`:
+<br> >> Finish Level `Easy`:
+
 <br>#155 : Min Stack
 <br>#232 : Implement Queue using Stacks
 <br>#509 : Fibonacci Number
@@ -15,4 +16,7 @@ Finish Level `Easy`:
 <br>#1108 : Defanging an IP Address
 <br>#1207 : Unique Number of Occurrences
 
+<br> >> Finish Level `Median`:
+  
 
+<br> >> Finish Level `Hard`:
