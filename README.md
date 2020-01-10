@@ -109,10 +109,23 @@ Week7 - Quick Sort
 Week8 - Heap Sort
 ------
 [Heap Sort 連結](https://github.com/LaiYuChung/108-Data_Structure_and_Algorithm/tree/master/HW2)
+<br>[參考資料](https://magiclen.org/heap-sort/)
+<br>堆積排序有法兩個大步驟：
+<br>第一個是把要排序的陣列製作成「最小堆積」(Min Heap)或是「最大堆積」(Max Heap)。
+<br>如果要將陣列遞增排序的話就使用最大堆積；如果要遞減排序的話就使用最小堆積。
+<br>接下來的步驟就是利用最大堆積和最小堆積來進行排序，方法和建立最大堆積或是最小堆積時是幾乎一樣的。
+
+<br>什麼是完全二元樹？完全二元樹是一種二元樹，它只允許最後一層(最底下那層)的節點數量可以不必填滿(若頂層是第1層，則第n層的最大節點數量為2n-1)。
 
 Week9 - Merge Sort
 ------
 [Merge Sort 連結](https://github.com/LaiYuChung/108-Data_Structure_and_Algorithm/tree/master/HW2)
+<br>[參考資料](https://emn178.pixnet.net/blog/post/87965707-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95%28merge-sort%29)
+<br>合併排序法(或稱歸併排序法)，是排序演算法的一種，使用Divide and Conquer的演算法來實作。排序時需要額外的空間來處理，過程依照以下步驟進行：
+
+* 將陣列分割直到只有一個元素。
+* 開始兩兩合併，每次合併同時進行排序，合併出排序過的陣列。
+* 重複2的動作直接全部合併完成。
 
 Week10 - Binary Tree
 ------
