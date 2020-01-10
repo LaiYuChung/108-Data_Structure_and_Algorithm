@@ -7,18 +7,18 @@
 
 <br> >> Finish Level `Easy`:
 
-<br>#155 : Min Stack
-<br>#232 : Implement Queue using Stacks
-<br>#509 : Fibonacci Number
-<br>#561 : Array Partition I
-<br>#705 : Design HashSet
-<br>#709 : To Lower Case
-<br>#771 : Jewels and Stones
-<br>#905 : Sort Array By Parity
-<br>#977 : Squares of a Sorted Array
-<br>#1051 : Height Checker
-<br>#1108 : Defanging an IP Address
-<br>#1207 : Unique Number of Occurrences
+* #155 : Min Stack
+* #232 : Implement Queue using Stacks
+* #509 : Fibonacci Number
+* #561 : Array Partition I
+* #705 : Design HashSet
+* #709 : To Lower Case
+* #771 : Jewels and Stones
+* #905 : Sort Array By Parity
+* #977 : Squares of a Sorted Array
+* #1051 : Height Checker
+* #1108 : Defanging an IP Address
+* #1207 : Unique Number of Occurrences
 
 <br> >> Finish Level `Median`:
   
