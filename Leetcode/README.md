@@ -1,8 +1,8 @@
 這裡為Leetcode練習紀錄：
 ------
 
-<h2>Solved / Total Questions (12/1312)
-
+## Solved / Total Questions (12/1312)
+ 
 <br>
 
 <br> >> Finish Level `Easy`:
