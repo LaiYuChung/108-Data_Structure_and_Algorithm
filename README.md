@@ -84,13 +84,17 @@ Week5 - Set
 
 Week6 - Insertion Sort
 ------
-[Insertion Sort 連結]()
+[參考資料](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
+<br>將資料分成已排序、未排序兩部份，依序由未排序中的第一筆(正處理的值)，插入到已排序中的適當位置
+<br>插入時由右而左比較，直到遇到第一個比正處理的值小的值，再插入，比較時，若遇到的值比正處理的值大或相等，則將值往右移
+<br>都從第一項開始比，依序往下比到最後一個數，是穩定的結構，但處理排序速度比較慢。
 
 * 這裡所稱的排序(Sorting)，是指將一串不規則的數值資料(陣列資料)依照遞增或是遞減的方式重新編排。要將一串不規則的數值資料遞增或是遞減排列，方法當然不會只有一種，而排序演算法(Sorting Algorithm)就是排列資料的方法。
 
 外部網站連結:
 <br>[各種排序法動畫演示](https://www.toptal.com/developers/sorting-algorithms)
 <br>[各式演算法教學](https://github.com/TheAlgorithms/Python)
+<br>[資料結構與演算法總整理介紹](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html)
 
 Week7 - Quick Sort
 ------
@@ -112,7 +116,12 @@ Week9 - Merge Sort
 
 Week10 - Binary Tree
 ------
-[Binary Tree 連結]()
+[參考網站](http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html)
+<br>「二元樹」是計算機科學最重要的概念，甚至可以說：二元樹開創了計算機科學。
+
+<br>像是排序資料結構`Binary Search Tree`、極值資料結構`Heap`、資料壓縮`Huffman Tree`、3D 繪圖`BSP Tree`，這一大堆稀奇古怪的術語，通通都是二元樹，二元樹的應用相當廣泛。
+
+<br>「二元樹」與「樹」，儘管名稱相近，但是概念不相近，至於用途更是天差地遠，兩者可以分別獨立學習。
 
 Week11 - Binary Search Tree
 ------
@@ -133,11 +142,19 @@ Week11 - Binary Search Tree
 
 Week12 - Red Black Tree
 ------
-[BRT 連結]()
+[BRT 連結](https://github.com/LaiYuChung/108-Data_Structure_and_Algorithm/blob/master/Content/Red%20%20Black%20Tree.py)
+<br>[參考網站](http://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
+<br>Red Black Tree(RBT)是node塗了「顏色」的Binary Search Tree(BST)，藉由控制顏色，能夠保證在RBT中，最長path(路徑)不會超過最短path的兩倍(若最短的path是5，最長的path至多只能是10)，如此，RBT便能夠近似地視為平衡。
 
 Week13 - Hash Table
 ------
 [Hash Table 連結](https://github.com/LaiYuChung/108-Data_Structure_and_Algorithm/tree/master/HW4) 
+<br>[參考網站](https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/)
+<br>Hash Table 是儲存 (key, value) 這種 mapping 關係的一種資料結構，插入元素、移除元素跟找某個元素大概都只要 O(1) 的時間複雜度。
+<br>為什麼他的時間複雜度這麼低呢? 
+<br>舉例來說，如果我們有 n 個數字要儲存，一般大家常會用 array 來存。如果我們拿到另一個數字 A，要判斷這個數字 A 有沒有在 array 裡面，那我們勢必得跟 array 裡的元素一個個比較，時間複雜度是 O(n)。(先做過 sorting 的話，就可以用二分搜尋法比較快地找到，但還是需要 O(logn) 的時間複雜度)
+
+<br>但因為 hash function 的關係，如果先把 n 個數字儲存在 Hash Table 裡面，那如果要判斷這個數字 A 是不是已經被存在 Hash Table 裡面，只要先把這個數字丟進 hash function，就可以直接知道 A 對應到 Hash Table 中哪一格。所以其實是 hash function 幫我們省去了一個個比較的力氣。
 
 Week14 - Breadth-First Tree
 ------
